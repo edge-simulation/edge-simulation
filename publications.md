@@ -4,6 +4,7 @@ feature_image: "/assets/logos/header.png"
 excerpt: "Papers based on EDGE."
 ---
 
+<br>
 These publications can also be accessed in ADS <a href="https://ui.adsabs.harvard.edu/search/p_=0&q=title%3A%22EDGE%22%20author%3A%22read%22&sort=date%20desc%2C%20bibcode%20desc">here</a>.
 
 1. **EDGE: The Origin of Scatter in Ultra-Faint Dwarf Stellar Mases and Surface Brightnesses**.  Martin P. Rey, Andrew Pontzen, Oscar Agertz, Matthew D. A. Orkney, Justin I. Read, Amelie Saintonge, Christian Pedersen. Astrophysical Journal Letters, 2019. [<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab53dd">ApJL</a>] [<a href="https://arxiv.org/abs/1909.04664">arXiv</a>] [<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...886L...3R/">ADS</a>]
