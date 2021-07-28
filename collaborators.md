@@ -1,6 +1,6 @@
 ---
 title: Collaborators
-#feature_image: "/assets/logos/header.png"
+feature_image: "/assets/logos/header.png"
 excerpt: "Meet the team."
 ---
 
