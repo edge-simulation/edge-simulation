@@ -225,6 +225,7 @@ img {
   height: auto;
 }
 
+.video,
 .figure {
   line-height: 0;
   &--left {
@@ -242,7 +243,6 @@ img {
   }
 }
 
-.video,
 .map {
   position: relative;
   padding-bottom: 56.25%;
