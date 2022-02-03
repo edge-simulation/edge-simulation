@@ -24,7 +24,7 @@ excerpt: "Meet the team."
 
 <a href="https://drpayeldas.com/">Dr Payel Das</a>, University of Surrey
 
-<a href="https://martin-rey.github.io/">Dr Martin Rey</a>, Lund University
+<a href="https://martin-rey.github.io/">Dr Martin Rey</a>, University of Oxford
 
 <a href="http://stacykim.github.io/">Dr Stacy Kim</a>, University of Surrey
 
@@ -34,6 +34,8 @@ excerpt: "Meet the team."
 
 <a href="https://www.surrey.ac.uk/people/matthew-orkney">Dr Matt Orkney</a>, University of Barcelona
 
-Ethan Taylor, University of Surrey
+<a href="https://www.surrey.ac.uk/people/ethan-taylor">Ethan Taylor</a>, University of Surrey
 
 Alex Goater, University of Surrey
+
+<a href="https://www.astro.lu.se/~eric">Eric Andersson</a>, Lund University
