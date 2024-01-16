@@ -24,18 +24,34 @@ excerpt: "Meet the team."
 
 <a href="https://drpayeldas.com/">Dr Payel Das</a>, University of Surrey
 
+<a href="https://www.surrey.ac.uk/people/denis-erkal">Dr Denis Erkal</a>, University of Surrey
+
+<a href="https://www.surrey.ac.uk/people/robert-izzard">Dr Robert Izzard</a>, University of Surrey
+
 <a href="https://martin-rey.github.io/">Dr Martin Rey</a>, University of Oxford
 
-<a href="http://stacykim.github.io/">Dr Stacy Kim</a>, University of Surrey
+<a href="https://www.surrey.ac.uk/people/matthew-orkney">Dr Matt Orkney</a>, University of Barcelona
+
+<a href="http://stacykim.github.io/">Dr Stacy Kim</a>, Carnegie Observatories
 
 <a href="https://cphyc.github.io/">Dr Corentin Cadiou</a>, University College London
 
-<a href="https://robyatesastro.wixsite.com/robyates">Dr Rob Yates</a>, University of Surrey
+<a href="https://robyatesastro.wixsite.com/robyates">Dr Rob Yates</a>, University of Hertfordshire
 
-<a href="https://www.surrey.ac.uk/people/matthew-orkney">Dr Matt Orkney</a>, University of Barcelona
+<a href="https://www.amnh.org/research/staff-directory/eric-andersson">Dr Eric Andersson</a>, American Museum of Natural History
+
+<a href="https://ricardabeckmann.com/">Dr Ricarda Beckmann</a>, University of Cambridge
+
+<a href="https://amerygration.com/">Dr Amery Gration</a>, University of Surrey
+
+Dr Susan Hutton, University of Surrey
+
+Dr Grace Lawrence, University College London
 
 <a href="https://www.surrey.ac.uk/people/ethan-taylor">Ethan Taylor</a>, University of Surrey
 
 Alex Goater, University of Surrey
 
-<a href="https://www.astro.lu.se/~eric">Eric Andersson</a>, Lund University
+Izzy Gray, University of Surrey
+
+<a href="https://www.ucl.ac.uk/astrophysics/claudia-muni-phd-student">Claudia Muni</a>, University College London
